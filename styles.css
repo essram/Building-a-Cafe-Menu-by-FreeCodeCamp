@@ -3,6 +3,18 @@ body {
   font-family: sans-serif;
 }
 
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.established {
+  font-style: italic;
+}
+
 h1, h2, p {
   text-align: center;
 }
@@ -16,7 +28,9 @@ h1, h2, p {
   max-width: 500px;
 }
 
-
+h1, h2 {
+  font-family: Impact, serif;
+}
 
 .item p {
   display: inline-block;
